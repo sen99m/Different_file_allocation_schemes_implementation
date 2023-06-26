@@ -1,0 +1,12 @@
+0 file1 abcde
+1 file1
+0 file2 def
+2 file1 xyz
+1 file1
+1 file2
+3 file1
+0 file1 6hgyjd
+1 file1
+3 file2
+0 file3 zyxwhj
+-1
