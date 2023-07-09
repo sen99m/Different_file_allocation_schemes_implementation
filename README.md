@@ -32,8 +32,8 @@ for executing type
 ```bash
 ./ca<i2.txt >contiguous_report.txt
 ./ma<i2.txt >modified_contiguous_report.txt
-./la<i2.txt >linked_report.txt
-./ia<i2.txt >indexed_report.txt
+./la<i1.txt >linked_report.txt
+./ia<i1.txt >indexed_report.txt
 ```
 
 
